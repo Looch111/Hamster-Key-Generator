@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background: #ffffff;
+    background: #333;
     padding: 15px;
     border-radius: 6px;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
